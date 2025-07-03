@@ -1,0 +1,5 @@
+dotenv
+generative-ai-hub-sdk[all]
+mcp
+mcp-use
+streamlit
